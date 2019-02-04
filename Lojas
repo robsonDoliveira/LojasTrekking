@@ -1,11 +1,11 @@
 [
 {
-  "idDicas_M": 1,
-  "TituloDicas_M": "Afogamento",
-  "FonteDicas_M": "www.bombeiros.mg.gov.br",
-  "DescricaoCurtaDicas_M": "Algumas informações básicas sobre afogamento.",
-  "ImagemDicas_M": "https://i.ibb.co/0spSVgD/af.jpg",
-  "LinkDicas_M": "http://www.bombeiros.mg.gov.br/dicas-de-seguranca/6-afogamento.html"
+  "idLojaTrekking_M": 1,
+  "NomeLojaTrekking_M": "Loja Trilhas de Minas",
+  "Cidade_M": "Belo Horizonte",
+  "EnderecoLojaTrekking_M": "Av. Contorno nº 6236, Savassi - Belo Horizonte MG - Cep. 30.110-042",
+  "ImagemLojaTrekking_M": "http://www.lojatrilhasdeminas.com.br/imagem/index/17462135/G/screenshot.png"
+  "LinkLojaTrekking_M": "http://www.lojatrilhasdeminas.com.br"
   }
   
   
