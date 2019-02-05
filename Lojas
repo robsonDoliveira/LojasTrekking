@@ -1,29 +1,10 @@
 [
-{
-  "idLojaTrekking_M": 1,
-  "NomeLojaTrekking_M": "Loja Trilhas de Minas",
-  "Cidade_M": "Belo Horizonte",
-  "EnderecoLojaTrekking_M": "Av. Contorno nº 6236, Savassi - Belo Horizonte MG - Cep. 30.110-042",
-  "ImagemLojaTrekking_M": "http://www.lojatrilhasdeminas.com.br/imagem/index/17462135/G/screenshot.png"
-  "LinkLojaTrekking_M": "http://www.lojatrilhasdeminas.com.br"
+  {
+    "idLojaTrekking_M": 1,
+    "NomeLojaTrekking_M": "Loja Trilhas de Minas",
+    "Cidade_M": "Belo Horizonte",
+    "EnderecoLojaTrekking_M": "Av. Contorno nº 6236, Savassi - Belo Horizonte MG - Cep. 30.110-042",
+    "ImagemLojaTrekking_M": "http://www.lojatrilhasdeminas.com.br/imagem/index/17462135/G/screenshot.png",
+    "LinkLojaTrekking_M": "http://www.lojatrilhasdeminas.com.br"
   }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 ]
