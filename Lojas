@@ -12,7 +12,7 @@
     "NomeLojaTrekking_M": "Jasper Mountain",
     "Cidade_M": "Belo Horizonte",
     "EnderecoLojaTrekking_M": "Av. Picadilly, 150 - loja 104 / Center 6 Alphaville - Lagoa dos Ingleses, Nova Lima - MG",
-    "ImagemLojaTrekking_M": "https://i3.wp.com/jaspermnt.com.br/wp-content/uploads/2018/12/logo.png",
+    "ImagemLojaTrekking_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/39976718_531340750656319_8339643800867569664_n.jpg?_nc_cat=110&_nc_ht=scontent.fplu17-1.fna&oh=67253f03ad60b9a850d7af99c1706f72&oe=5CB8ECBA",
     "LinkLojaTrekking_M": "https://www.jaspermnt.com.br"
   },
     {
@@ -20,7 +20,7 @@
     "NomeLojaTrekking_M": "Pro Adventure",
     "Cidade_M": "Belo Horizonte",
     "EnderecoLojaTrekking_M": "Rua Conselheiro Lafaiete, 811 Loja - Sagrada Família - BH - MG - CEP 31030-010",
-    "ImagemLojaTrekking_M": "https://proadventure.com.br/skin/frontend/zenstudio/proadventure/images/proadventure.png",
+    "ImagemLojaTrekking_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-0/c1.0.368.368a/p370x247/9778_804687039587431_4100251741173437072_n.jpg?_nc_cat=106&_nc_ht=scontent.fplu17-1.fna&oh=fefe2a256e4b3f4a81045e0faa35bdd5&oe=5CF53FD6",
     "LinkLojaTrekking_M": "https://proadventure.com.br"
   },
    {
@@ -30,6 +30,14 @@
     "EnderecoLojaTrekking_M": "Rua Francisco Deslandes, 1.018 - Anchieta - Belo Horizonte - Minas Gerais",
     "ImagemLojaTrekking_M": "https://www.lojanerea.com.br/img/loja/home-header/logomarca.png",
     "LinkLojaTrekking_M": "https://www.lojanerea.com.br"
+  },
+   {
+    "idLojaTrekking_M": 5,
+    "NomeLojaTrekking_M": "Trilhas e Rumos",
+    "Cidade_M": "Rio de Janeiro",
+    "EnderecoLojaTrekking_M": "Rua Fernando Luz Filho, 112 - Teresópolis/RJ - CEP: 25954-195",
+    "ImagemLojaTrekking_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-0/p370x247/16143057_1763366477022586_2883807406253947379_n.jpg?_nc_cat=101&_nc_ht=scontent.fplu17-1.fna&oh=75e82ba2cf6d4f86596537bbb8d125d6&oe=5CFB8BCC",
+    "LinkLojaTrekking_M": "https://trilhaserumos.com.br"
   }
   
   
