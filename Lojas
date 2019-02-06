@@ -54,6 +54,94 @@
     "EnderecoLojaTrekking_M": "Rua Conde de Porto Alegre, 1050. Centro. Santa Maria/RS. ",
     "ImagemLojaTrekking_M": "https://orientista.static-ws.com.br/images/site/logo.png",
     "LinkLojaTrekking_M": "https://www.orientista.com.br"
+  },
+    {
+    "idLojaTrekking_M": 8,
+    "NomeLojaTrekking_M": "Adrena",
+    "Cidade_M": "Belo Horizonte/MG",
+    "EnderecoLojaTrekking_M": "Av. Getúlio Vargas, 1635 . Savassi -BH/MG - CNPJ: 10.224.696/0001-93.",
+    "ImagemLojaTrekking_M": "https://www.adrena.com.br/media/layout/header/default/logo_adrena.png",
+    "LinkLojaTrekking_M": "https://www.adrena.com.br"
+  },
+  {
+    "idLojaTrekking_M": 9,
+    "NomeLojaTrekking_M": "Loja Alta Montanha",
+    "Cidade_M": "Curitiba/PR",
+    "EnderecoLojaTrekking_M": "Endereço: Rua Fagundes Varela, 1321, Jardim Social, Curitiba PR",
+    "ImagemLojaTrekking_M": "https://www.adrena.com.br/media/layout/header/default/logo_adrena.png",
+    "LinkLojaTrekking_M": "https://lojaam.com.br"
+  },
+   {
+    "idLojaTrekking_M": 10,
+    "NomeLojaTrekking_M": "Arco e Flecha",
+    "Cidade_M": "São Paulo/SP",
+    "EnderecoLojaTrekking_M": "Rua Tito, 542 1º e 2º andares - Lapa São Paulo / SP",
+    "ImagemLojaTrekking_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/548572_184591595014434_1054344988_n.jpg?_nc_cat=111&_nc_ht=scontent.fplu17-1.fna&oh=2c9777d1968ce339299c03c72634f4b7&oe=5CF07789",
+    "LinkLojaTrekking_M": "https://www.arcoeflecha.com.br"
+  },
+    {
+    "idLojaTrekking_M": 11,
+    "NomeLojaTrekking_M": "Pé na Trilha",
+    "Cidade_M": "São Paulo/SP",
+    "EnderecoLojaTrekking_M": "Rua Apeninos, 803, Paraíso 01533-000 São Paulo",
+    "ImagemLojaTrekking_M": "https://www.penatrilha.com.br/skin/frontend/penatrilha/pnt/images/logo.png",
+    "LinkLojaTrekking_M": "https://www.penatrilha.com.br"
+  },
+   {
+    "idLojaTrekking_M": 12,
+    "NomeLojaTrekking_M": "Loja adventura",
+    "Cidade_M": "Rio de Janeiro/RJ",
+    "EnderecoLojaTrekking_M": "Av. Treze de Maio, 33C (342,02 km) 20031-007 Rio de Janeiro",
+    "ImagemLojaTrekking_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/15107275_1443376912358762_6463907418933383030_n.png?_nc_cat=108&_nc_ht=scontent.fplu17-1.fna&oh=186d1338b6d44db72c58157545cb4282&oe=5CE42175",
+    "LinkLojaTrekking_M": "http://www.adventura.com.br"
+  },
+    {
+    "idLojaTrekking_M": 13,
+    "NomeLojaTrekking_M": "Bota na Trilha",
+    "Cidade_M": "Santa Maria/RS",
+    "EnderecoLojaTrekking_M": "Rua Quintino Bocaiuva, 272/401. CEP 97010-400 Santa Maria RS",
+    "ImagemLojaTrekking_M": "https://botanatrilha.com.br/skin/frontend/argento/flat/logo_1.png",
+    "LinkLojaTrekking_M": "https://botanatrilha.com.br"
+  },
+   {
+    "idLojaTrekking_M": 14,
+    "NomeLojaTrekking_M": "EcoTrek",
+    "Cidade_M": "Rio de Janeiro/RJ",
+    "EnderecoLojaTrekking_M": "Av. N. S. de Copacabana, 1072 / Sala 304 Copacabana - Rio de Janeiro - RJ",
+    "ImagemLojaTrekking_M": "https://www.ecotrek.com.br/wp-content/uploads/2017/09/ecotrek_logo.jpg",
+    "LinkLojaTrekking_M": "https://www.ecotrek.com.br"
+  },
+    {
+    "idLojaTrekking_M": 15,
+    "NomeLojaTrekking_M": "Aventura e Cia",
+    "Cidade_M": "Pinhais/PR",
+    "EnderecoLojaTrekking_M": "Rua Urai, 170, Vila Emiliano Perneta, Centro, Pinhais - CEP: 83.324-490",
+    "ImagemLojaTrekking_M": "https://www.aventuraecia.com.br/recursos/aventuraecia/img/aventuraecia.png",
+    "LinkLojaTrekking_M": "https://www.aventuraecia.com.br"
+  },
+   {
+    "idLojaTrekking_M": 16,
+    "NomeLojaTrekking_M": "Nautika lazer",
+    "Cidade_M": "Guarulhos/SP",
+    "EnderecoLojaTrekking_M": "Rua Santana de Ipanema, 597. Cumbica | Guarulhos - SP",
+    "ImagemLojaTrekking_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/12805875_1053354974731713_3030130303406286511_n.jpg?_nc_cat=104&_nc_ht=scontent.fplu17-1.fna&oh=a9e64e70adc60c562f030dc81a21c37d&oe=5CB4C517",
+    "LinkLojaTrekking_M": "https://www.nautikalazer.com.br"
+  },
+   {
+    "idLojaTrekking_M": 17,
+    "NomeLojaTrekking_M": "Columbia Sportswear",
+    "Cidade_M": "São Paulo/SP",
+    "EnderecoLojaTrekking_M": "Rua Luiz Gatti, 603 - São Paulo/SP. CEP 05038-150",
+    "ImagemLojaTrekking_M": "https://www.columbiasportswear.com.br/static/locales/global/img/logo.png",
+    "LinkLojaTrekking_M": "https://www.columbiasportswear.com.br"
+  },
+   {
+    "idLojaTrekking_M": 18,
+    "NomeLojaTrekking_M": "Loja Das Pedras",
+    "Cidade_M": "Belo Horizonte/MG",
+    "EnderecoLojaTrekking_M": "Rua Santa Rita Durão, 384 Funcionários – Belo Horizonte, MG",
+    "ImagemLojaTrekking_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/48909550_2143369142368230_3524290600767586304_n.jpg?_nc_cat=105&_nc_ht=scontent.fplu17-1.fna&oh=2e4eedb35884852f70336a8e1d6c7618&oe=5CFBC538",
+    "LinkLojaTrekking_M": "https://daspedras.com.br"
   }
   
   
