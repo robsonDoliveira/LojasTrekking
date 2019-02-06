@@ -180,7 +180,7 @@
     "NomeLojaTrekking_M": "Casa do Montanhista",
     "Cidade_M": "Curitiba/PR",
     "EnderecoLojaTrekking_M": "Rua André Barros, 678 (822,12 km) 80010-080 Curitiba",
-    "ImagemLojaTrekking_M": "https://www.casadomontanhista.com.br/config/imagens_conteudo/padrao/logo.gif",
+    "ImagemLojaTrekking_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/18581918_645713968965767_8648608391920719082_n.png?_nc_cat=101&_nc_ht=scontent.fplu17-1.fna&oh=7b1ca7c07d184fef2a50849651d53525&oe=5CF556A6",
     "LinkLojaTrekking_M": "https://www.casadomontanhista.com.br"
   },
     {
@@ -201,6 +201,14 @@
   },
     {
     "idLojaTrekking_M": 26,
+    "NomeLojaTrekking_M": "Cold Mountain",
+    "Cidade_M": "Brasília/DF",
+    "EnderecoLojaTrekking_M": "CLS 104 Bloco A Loja 15 - Brasília/DF",
+    "ImagemLojaTrekking_M": "https://cdn.coldandmountain.com.br/media/logo/default/mountain_pro_final_SIMPLE_RED4_MAGENTO.png",
+    "LinkLojaTrekking_M": "https://www.coldandmountain.com.br"
+  },
+   {
+    "idLojaTrekking_M": 27,
     "NomeLojaTrekking_M": "Cold Mountain",
     "Cidade_M": "Brasília/DF",
     "EnderecoLojaTrekking_M": "CLS 104 Bloco A Loja 15 - Brasília/DF",
