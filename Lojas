@@ -68,7 +68,7 @@
     "NomeLojaTrekking_M": "Loja Alta Montanha",
     "Cidade_M": "Curitiba/PR",
     "EnderecoLojaTrekking_M": "Endereço: Rua Fagundes Varela, 1321, Jardim Social, Curitiba PR",
-    "ImagemLojaTrekking_M": "https://www.adrena.com.br/media/layout/header/default/logo_adrena.png",
+    "ImagemLojaTrekking_M": "https://d1w0dbk7rt0uti.cloudfront.net/skin/frontend/argento/flat/logo_2_1.png",
     "LinkLojaTrekking_M": "https://lojaam.com.br"
   },
    {
@@ -142,6 +142,70 @@
     "EnderecoLojaTrekking_M": "Rua Santa Rita Durão, 384 Funcionários – Belo Horizonte, MG",
     "ImagemLojaTrekking_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/48909550_2143369142368230_3524290600767586304_n.jpg?_nc_cat=105&_nc_ht=scontent.fplu17-1.fna&oh=2e4eedb35884852f70336a8e1d6c7618&oe=5CFBC538",
     "LinkLojaTrekking_M": "https://daspedras.com.br"
+  },
+    {
+    "idLojaTrekking_M": 19,
+    "NomeLojaTrekking_M": "The North Face",
+    "Cidade_M": "SERRA/ES",
+    "EnderecoLojaTrekking_M": "AV. OITOCENTOS S/N Q/D 19 M01 CEP: 29161-389 - SERRA /ES",
+    "ImagemLojaTrekking_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/40387315_2171299066278082_8082523242935353344_n.png?_nc_cat=102&_nc_ht=scontent.fplu17-1.fna&oh=cede2fded267bc956e1cae2fba2802bc&oe=5CE5F265",
+    "LinkLojaTrekking_M": "https://www.thenorthface.com.br"
+  },
+    {
+    "idLojaTrekking_M": 20,
+    "NomeLojaTrekking_M": "Serra Adventure",
+    "Cidade_M": "Belo Horizonte/MG",
+    "EnderecoLojaTrekking_M": "Rua Tupis, 337 - Loja G21- Centro - Belo Horizonte / MG. CEP.: 30.190-060",
+    "ImagemLojaTrekking_M": "https://serraadventure.com.br/skin/frontend/default/serraadventure/images/logo.png",
+    "LinkLojaTrekking_M": "https://serraadventure.com.br"
+  },
+     {
+    "idLojaTrekking_M": 21,
+    "NomeLojaTrekking_M": "Trekkinn",
+    "Cidade_M": "Espanha",
+    "EnderecoLojaTrekking_M": "C/ Pirineus, 9, 17460 Celrà (Girona), Spain",
+    "ImagemLojaTrekking_M": "https://cdn.valesdedescontos.pt/asas8gqjpschefi3csna.jpg",
+    "LinkLojaTrekking_M": "https://www.trekkinn.com/montanha"
+  },
+     {
+    "idLojaTrekking_M": 22,
+    "NomeLojaTrekking_M": "Loja do Trekking",
+    "Cidade_M": "São João del-Rei/MG",
+    "EnderecoLojaTrekking_M": "Rua Mestre Francisco Lima Cerqueira, 70 - Bonfim - São João del-Rei / MG",
+    "ImagemLojaTrekking_M": "https://d26lpennugtm8s.cloudfront.net/stores/860/199/themes/common/logo-373948269-1535491666-196865b2e592f511f18a605a1e05cb3b1535491667.png?0",
+    "LinkLojaTrekking_M": "https://www.lojadotrekking.com.br"
+  },
+  {
+    "idLojaTrekking_M": 23,
+    "NomeLojaTrekking_M": "Casa do Montanhista",
+    "Cidade_M": "Curitiba/PR",
+    "EnderecoLojaTrekking_M": "Rua André Barros, 678 (822,12 km) 80010-080 Curitiba",
+    "ImagemLojaTrekking_M": "https://www.casadomontanhista.com.br/config/imagens_conteudo/padrao/logo.gif",
+    "LinkLojaTrekking_M": "https://www.casadomontanhista.com.br"
+  },
+    {
+    "idLojaTrekking_M": 24,
+    "NomeLojaTrekking_M": "Loja Caverna",
+    "Cidade_M": "Rio Grande do Sul/RS",
+    "EnderecoLojaTrekking_M": "Rua João Nichele 2047 Sala B - Cinquentenário, Caxias do Sul - Rio Grande do Sul",
+    "ImagemLojaTrekking_M": "https://assets.xtechcommerce.com/uploads/logos/7211a92d6d75571aff459b89036d99da.png",
+    "LinkLojaTrekking_M": "https://www.lojacaverna.com"
+  },
+    {
+    "idLojaTrekking_M": 25,
+    "NomeLojaTrekking_M": "Bivak - Outfitter",
+    "Cidade_M": "São Paulo/SP",
+    "EnderecoLojaTrekking_M": "Rua Caramuru, 523 São Paulo - SP",
+    "ImagemLojaTrekking_M": "http://www.bivak.com.br/loja/skins/basic/customer/images/logo_175.png",
+    "LinkLojaTrekking_M": "http://www.bivak.com.br/loja"
+  },
+    {
+    "idLojaTrekking_M": 26,
+    "NomeLojaTrekking_M": "Cold Mountain",
+    "Cidade_M": "Brasília/DF",
+    "EnderecoLojaTrekking_M": "CLS 104 Bloco A Loja 15 - Brasília/DF",
+    "ImagemLojaTrekking_M": "https://cdn.coldandmountain.com.br/media/logo/default/mountain_pro_final_SIMPLE_RED4_MAGENTO.png",
+    "LinkLojaTrekking_M": "https://www.coldandmountain.com.br"
   }
   
   
